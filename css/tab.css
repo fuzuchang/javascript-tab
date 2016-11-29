@@ -1,0 +1,56 @@
+.tab-0,
+.tab-1,
+.tab-2,
+.tab-3,
+.tab-4,
+.tab-5,
+.tab-6,
+.tab-7,
+.tab-8,
+.tab-9{
+     display: inline-block;
+     width: 100px;
+     height: 30px;
+     color: #fff !important;
+     text-align: center;
+}
+
+.tab-0{
+    background: #ff0097;
+}
+
+.tab-1{
+    background: #ffa631;
+}
+
+.tab-2{
+    background: #afdd22;
+}
+
+.tab-3{
+    background: #00bc12;
+}
+
+.tab-4{
+    background: #f2be45;
+}
+
+.tab-5{
+    background: #ca6924;
+}
+
+.tab-6{
+    background: #00e09e;
+}
+
+.tab-7{
+    background: #392f41;
+}
+.tab-8{
+    background: #ff2d51;
+}
+
+.tab-9{
+    background: #4b5cc4;
+}
+

@@ -1,0 +1,56 @@
+.content-0,
+.content-1,
+.content-2,
+.content-3,
+.content-4,
+.content-5,
+.content-6,
+.content-7,
+.content-8,
+.content-9{
+     display: inline-block;
+     width: 1000px;
+     height: 200px;
+     color: #fff !important;
+     text-align: center;
+}
+
+.content-0{
+    background: #ff0097;
+}
+
+.content-1{
+    background: #ffa631;
+}
+
+.content-2{
+    background: #afdd22;
+}
+
+.content-3{
+    background: #00bc12;
+}
+
+.content-4{
+    background: #f2be45;
+}
+
+.content-5{
+    background: #ca6924;
+}
+
+.content-6{
+    background: #00e09e;
+}
+
+.content-7{
+    background: #392f41;
+}
+.content-8{
+    background: #ff2d51;
+}
+
+.content-9{
+    background: #4b5cc4;
+}
+
